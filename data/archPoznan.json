@@ -1,0 +1,50 @@
+{
+  "diecezja": {
+    "id": 0,
+    "nazwa": "Archidiecezja Poznańska",
+    "dekanaty": [
+      {
+        "id": 1,
+        "nazwa": "Dekanat 1",
+        "parafie": [
+          {
+            "id": 101,
+            "nazwa": "Parafia 1"
+          },
+          {
+            "id": 102,
+            "nazwa": "Parafia 2"
+          },
+          {
+            "id": 103,
+            "nazwa": "Parafia 3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nazwa": "Dekanat 2",
+        "parafie": [
+          {
+            "id": 201,
+            "nazwa": "Parafia 4"
+          },
+          {
+            "id": 202,
+            "nazwa": "Parafia 5"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nazwa": "Dekanat 3",
+        "parafie": [
+          {
+            "id": 301,
+            "nazwa": "Parafia 6"
+          }
+        ]
+      }
+    ]
+  }
+}

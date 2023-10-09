@@ -1,0 +1,116 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const pathJSONFile = "/./helpers/dekanatyParafie.json";
+    let jsonData;
+    const fieldDekanat = document.querySelector('select[name="dekanat"]');
+    const fieldParafia = document.querySelector('select[name="parafia"]');
+    let czyWybranoDekanat = false;
+
+    fetch(pathJSONFile)
+      .then(function (response) {
+        if (!response.ok) {
+          throw new Error("Problem z pobraniem pliku JSON");
+        }
+        return response.json();
+      })
+      .then(function (data) {
+        jsonData = data;
+
+        function uzupelnijPoleSelect(field, array) {
+          array.forEach(function (elementTablicy) {
+            let optionElement = document.createElement("option");
+            optionElement.value = elementTablicy.nazwa;
+            optionElement.textContent = elementTablicy.nazwa;
+            field.appendChild(optionElement);
+          });
+        }
+
+        function uzupelnijPoleDekanat(array) {
+          fieldDekanat.innerHTML = '<option value="">Wybierz dekanat</option>';
+          uzupelnijPoleSelect(fieldDekanat, array);
+        }
+
+        function uzupelnijPoleParafia(array) {
+          fieldParafia.innerHTML = '<option value="">Wybierz parafię</option>';
+          uzupelnijPoleSelect(fieldParafia, array);
+        }
+
+        function getAllDekanaty() {
+          const allDekanaty = [];
+          jsonData.dekanaty.forEach((dekanat) => {
+            allDekanaty.push({ id: dekanat.id, nazwa: dekanat.nazwa });
+          });
+          return allDekanaty;
+        }
+
+        function getAllParafie() {
+          const allParafie = [];
+          jsonData.dekanaty.forEach((dekanat) => {
+            dekanat.parafie.forEach((parafia) => {
+              allParafie.push({ id: parafia.id, nazwa: parafia.nazwa });
+            });
+          });
+          return allParafie;
+        }
+
+        function getDekanatNaPodstawieNazwyParafii(wybranaParafia) {
+          return jsonData.dekanaty.find(function (dekanat) {
+            return dekanat.parafie.some(function (parafia) {
+              return parafia.nazwa === wybranaParafia;
+            });
+          });
+        }
+
+        function getDekanatNaPodstawieJegoNazwy(wybranaNazwaDekanatu) {
+          return jsonData.dekanaty.find(function (dekanat) {
+            return dekanat.nazwa === wybranaNazwaDekanatu;
+          });
+        }
+
+        // Wypełnij pole PARAFIA na podstawie danych
+        const allParafie = getAllParafie();
+        uzupelnijPoleParafia(allParafie);
+
+        // Wypełnij pole DEKANAT na podstawie danych
+        const allDekanaty = getAllDekanaty();
+        uzupelnijPoleDekanat(allDekanaty);
+
+        // Obsługa zdarzenia zmiany w polu PARAFIA
+        fieldParafia.addEventListener("change", function () {
+          const parafiaValue =
+            fieldParafia.options[fieldParafia.selectedIndex].value;
+
+          if (!parafiaValue) {
+            fieldDekanat.disabled = false;
+            if (!czyWybranoDekanat) {
+              uzupelnijPoleParafia(allParafie);
+			  fieldDekanat.value = '';
+            }
+          } else {
+            fieldDekanat.disabled = true;
+            const dekanatParafii =
+              getDekanatNaPodstawieNazwyParafii(parafiaValue);
+            fieldDekanat.value = dekanatParafii.nazwa;
+          }
+        });
+
+        // Obsługa zdarzenia zmiany w polu DEKANAT
+        fieldDekanat.addEventListener("change", function () {
+          const dekanatValue =
+            fieldDekanat.options[fieldDekanat.selectedIndex].value;
+
+          if (!dekanatValue) {
+            czyWybranoDekanat = false;
+            uzupelnijPoleParafia(allParafie);
+          } else {
+            czyWybranoDekanat = true;
+            const wybranyDekanat = getDekanatNaPodstawieJegoNazwy(dekanatValue);
+            uzupelnijPoleParafia(wybranyDekanat.parafie);
+          }
+        });
+      })
+      .catch(function (error) {
+        console.error("Wystąpił błąd:", error);
+      });
+  });
+</script>
