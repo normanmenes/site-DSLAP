@@ -1,50 +1,1940 @@
 {
-  "diecezja": {
-    "id": 0,
-    "nazwa": "Archidiecezja Poznańska",
-    "dekanaty": [
-      {
-        "id": 1,
-        "nazwa": "Dekanat 1",
-        "parafie": [
-          {
-            "id": 101,
-            "nazwa": "Parafia 1"
-          },
-          {
-            "id": 102,
-            "nazwa": "Parafia 2"
-          },
-          {
-            "id": 103,
-            "nazwa": "Parafia 3"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "nazwa": "Dekanat 2",
-        "parafie": [
-          {
-            "id": 201,
-            "nazwa": "Parafia 4"
-          },
-          {
-            "id": 202,
-            "nazwa": "Parafia 5"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "nazwa": "Dekanat 3",
-        "parafie": [
-          {
-            "id": 301,
-            "nazwa": "Parafia 6"
-          }
-        ]
-      }
-    ]
-  }
+  "id": null,
+  "nazwa": "Archidiecezja Poznańska",
+  "dekanaty": [
+    {
+      "id": null,
+      "nazwa": "Borecki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Borek Wlkp. Pocieszenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Cerekwica Stara św. Jakuba Większego Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Chwałkowo Kościelne św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Góra k. Jarocina Wniebowzięcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Jaraczewo św. Marii Magdaleny"
+        },
+        {
+          "id": null,
+          "nazwa": "Jeżewo Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Mchy św. Marcina Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Nosków Świętej Trójcy"
+        },
+        {
+          "id": null,
+          "nazwa": "Panienka Najświętszego Imienia Jezus"
+        },
+        {
+          "id": null,
+          "nazwa": "Potarzyca Podwyższenia Krzyża Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Rusko św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Zimnowoda Świętej Trójcy"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Bukowski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Buk św. Stanisława Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Dakowy Mokre św. Katarzyny P.M."
+        },
+        {
+          "id": null,
+          "nazwa": "Kuślin Zmartwychwstania Pańskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Michorzewo Najświętszej Maryi Panny i Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Niepruszewo św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Opalenica św. Józefa"
+        },
+        {
+          "id": null,
+          "nazwa": "Opalenica św. Mateusza"
+        },
+        {
+          "id": null,
+          "nazwa": "Sędziny Niepokalanego Serca NMP i św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Wojnowice św. Brata Alberta Chmielowskiego"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Czarnkowski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Boruszyn św. Andrzeja Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Czarnków Jezusa Chrystusa Najwyższego Kapłana"
+        },
+        {
+          "id": null,
+          "nazwa": "Czarnków św. Marii Magdaleny"
+        },
+        {
+          "id": null,
+          "nazwa": "Gębice św. Andrzeja Boboli"
+        },
+        {
+          "id": null,
+          "nazwa": "Kruszewo św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Lubasz Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Połajewo św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Ryczywół św. Mikołaja"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Czerwonacki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Biedrusko św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Bolechowo Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Czerwonak Niepokalanego Serca NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Kicin św. Józefa"
+        },
+        {
+          "id": null,
+          "nazwa": "Koziegłowy Matki Bożej Fatimskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Koziegłowy św. Brata Alberta"
+        },
+        {
+          "id": null,
+          "nazwa": "Owińska św. Jana Chrzciciel"
+        },
+        {
+          "id": null,
+          "nazwa": "Wierzenica św. Mikołaja"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Gostyńska",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Domachowo św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Gostyń Błogosławionego Edmunda Bojanowskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Gostyń Ducha Świętego i Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Gostyń Najświętszej Maryi Panny Świętogórskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Gostyń św. Małgorzaty"
+        },
+        {
+          "id": null,
+          "nazwa": "Kunowo św. Andrzeja Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Piaski Niepokalanego Serca Maryi"
+        },
+        {
+          "id": null,
+          "nazwa": "Siemowo Podwyższenia Krzyża Świętego i św. Marii Magdaleny"
+        },
+        {
+          "id": null,
+          "nazwa": "Stary Gostyń św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Strzelce Wielkie św. Marcina Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Szelejewo Drugie Matki Bożej Pocieszenia"
+        },
+        {
+          "id": null,
+          "nazwa": "Zalesie Wlkp. Najświętszego Serca Pana Jezusa"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Grodziski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bukowiec św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Grodzisk Wlkp. Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Grodzisk Wlkp. św. Faustyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Grodzisk Wlkp. św. Jadwigi"
+        },
+        {
+          "id": null,
+          "nazwa": "Jabłonna Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Kamieniec Poznański św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Kąkolewo Niepokalanego Serca NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Parzęczewo św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Ptaszkowo św. Ap. Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Ruchocice św. Urszuli"
+        },
+        {
+          "id": null,
+          "nazwa": "Sątopy św. Andrzeja Boboli"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Jutrosiński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Dubin św. Mikołaja Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Golejewko Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Jutrosin św. Elżbiety"
+        },
+        {
+          "id": null,
+          "nazwa": "Kołaczkowice Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Konary św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Pakosław św. Walentego i Macierzyństwa Bożego Maryi Dziewicy"
+        },
+        {
+          "id": null,
+          "nazwa": "Skoraszewice św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Smolice Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Szkaradowo św. Marcina Bpa"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Komornicki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Dąbrówka św. Urszuli Ledóchowskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Dopiewo Nawiedzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Komorniki św. Andrzeja Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Komorniki św. Jana XXIII"
+        },
+        {
+          "id": null,
+          "nazwa": "Konarzewo św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Plewiska bł. Jerzego Popiełuszki"
+        },
+        {
+          "id": null,
+          "nazwa": "Plewiska św. Faustyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Skórzewo bł. Stefana Wyszyńskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Skórzewo św. Marcina i św. Wincentego M."
+        },
+        {
+          "id": null,
+          "nazwa": "Zakrzewo NMP Królowej Korony Polskiej"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Kostrzyński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Czerlejno NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Giecz Wniebowzięcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Grodziszczko św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Gułtowy św. Kazimierza"
+        },
+        {
+          "id": null,
+          "nazwa": "Iwno NMP Szkaplerznej"
+        },
+        {
+          "id": null,
+          "nazwa": "Kleszczewo Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Kostrzyn Błogosławionej Jolanty"
+        },
+        {
+          "id": null,
+          "nazwa": "Kostrzyn św. Ap. Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Siedlec św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Siekierki Wielkie św. Jadwigi"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Kościański",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bonikowo św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Czempiń św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Gryżyna św. Barbary"
+        },
+        {
+          "id": null,
+          "nazwa": "Konojad św. Andrzeja Apostoła"
+        },
+        {
+          "id": null,
+          "nazwa": "Kościan Ducha Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Kościan NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Kościan św. Brata Alberta Chmielowskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Kościan św. Jana Pawła II"
+        },
+        {
+          "id": null,
+          "nazwa": "Łęki Wielkie św. Katarzyny i Niepokalanego Serca Maryi"
+        },
+        {
+          "id": null,
+          "nazwa": "Racot św. Stanisława Kostki i św. Jerzego"
+        },
+        {
+          "id": null,
+          "nazwa": "Stare Oborzyska NMP Pocieszenia i św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Stary Gołębin Wniebowzięcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Wyskoć św. Andrzeja Apostoła"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Kórnicki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bnin św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Borówiec Matki Bożej Królowej Rodzin"
+        },
+        {
+          "id": null,
+          "nazwa": "Koszuty św. Katarzyny i Najświętszego Serca Jezusowego"
+        },
+        {
+          "id": null,
+          "nazwa": "Kórnik Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Robakowo św. Józefa Rzemieślnika"
+        },
+        {
+          "id": null,
+          "nazwa": "Rogalin św. Marcelina"
+        },
+        {
+          "id": null,
+          "nazwa": "Śnieciska św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Zaniemyśl Niepokalanego Serca NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Zaniemyśl św. Wawrzyńca"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Krobski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Chwałkowo Świętej Trójcy"
+        },
+        {
+          "id": null,
+          "nazwa": "Krobia św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Niepart św. Ap. Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Oporowo NMP Niepokalanie Poczętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Pępowo św. Jadwigi"
+        },
+        {
+          "id": null,
+          "nazwa": "Poniec Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Pudliszki Matki Boskiej Częstochowskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Zalesie Wielkie Matki Boskiej Królowej Polski"
+        },
+        {
+          "id": null,
+          "nazwa": "Żytowiecko św. Stanisława Bpa"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Krzywiński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bielewo Matki Boskiej Pocieszenia"
+        },
+        {
+          "id": null,
+          "nazwa": "Choryń św. Katarzyny Sieneńskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Czerwona Wieś św. Idziego"
+        },
+        {
+          "id": null,
+          "nazwa": "Dalewo św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Jerka św. Kazimierza"
+        },
+        {
+          "id": null,
+          "nazwa": "Krzywiń św. Mikołaja Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Lubiń Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Rąbiń św. Ap. Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Świerczyna św. Łukasza Ewangelisty"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Leszczyński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Leszno NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Leszno św. Antoniego"
+        },
+        {
+          "id": null,
+          "nazwa": "Leszno św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Leszno św. Józefa"
+        },
+        {
+          "id": null,
+          "nazwa": "Leszno św. Kazimierza"
+        },
+        {
+          "id": null,
+          "nazwa": "Leszno św. Maksymiliana Marii Kolbego"
+        },
+        {
+          "id": null,
+          "nazwa": "Leszno św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Leszno Świętego Krzyża"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Luboński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Krosno Matki Boskiej Częstochowskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Luboń św. Barbary"
+        },
+        {
+          "id": null,
+          "nazwa": "Luboń św. Jana Bosko"
+        },
+        {
+          "id": null,
+          "nazwa": "Luboń św. Jana Pawła II"
+        },
+        {
+          "id": null,
+          "nazwa": "Luboń św. Maksymiliana Marii Kolbego"
+        },
+        {
+          "id": null,
+          "nazwa": "Mosina św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Puszczykowo Matki Boskiej Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Puszczykowo św. Józefa Oblubieńca NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Wiry św. Floriana"
+        },
+        {
+          "id": null,
+          "nazwa": "Żabno św. Jakuba Ap."
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Lwówecki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bolewice Chrystusa Króla"
+        },
+        {
+          "id": null,
+          "nazwa": "Boruja Kościelna św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Jastrzębsko Stare Matki Boskiej Królowej Korony Polskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Lwówek NMP Wniebowziętej, św. Jana Chrzciciela i św. Jana Ewangelisty"
+        },
+        {
+          "id": null,
+          "nazwa": "Miedzichowo św. Stanisława Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Nowy Tomyśl Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Nowy Tomyśl NMP Nieustającej Pomocy"
+        },
+        {
+          "id": null,
+          "nazwa": "Wąsowo Miłosierdzia Bożego"
+        },
+        {
+          "id": null,
+          "nazwa": "Wytomyśl św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Zębowo Najświętszego Serca Jezusowego i Niepokalanego Serca Maryi"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Międzychodzki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Kamionna Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Kwilcz św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Lewice św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Łowyń Wniebowzięcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Międzychód Męczeństwa św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Międzychód Niepokalanego Serca Maryi"
+        },
+        {
+          "id": null,
+          "nazwa": "Silna św. Józefa"
+        },
+        {
+          "id": null,
+          "nazwa": "Stoki św. Wojciecha"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Nowomiejski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Chocicza Miłosierdzia Bożego"
+        },
+        {
+          "id": null,
+          "nazwa": "Cielcza św. Małgorzaty"
+        },
+        {
+          "id": null,
+          "nazwa": "Dębno Wniebowzięcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Gogolewo Podwyższenia Krzyża Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Kolniczki Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Książ Wlkp. NMP Wniebowziętej i św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Książ Wlkp. św. Antoniego Padewskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Mieszków św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Nowe Miasto n. Wartą Świętej Trójcy"
+        },
+        {
+          "id": null,
+          "nazwa": "Radlin św. Walentego"
+        },
+        {
+          "id": null,
+          "nazwa": "Solec Wlkp. św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Sulęcinek Chrystusa Króla"
+        },
+        {
+          "id": null,
+          "nazwa": "Włościejewki NMP Niepokalanie Poczętej"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Obornicki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Chludowo Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Kiszewo Najświętszego Serca Jezusa i św. Anny"
+        },
+        {
+          "id": null,
+          "nazwa": "Ludomy św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Łukowo św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Maniewo św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Objezierze św. Bartłomieja"
+        },
+        {
+          "id": null,
+          "nazwa": "Oborniki Miłosierdzia Bożego, (daw. Świętego Krzyża)"
+        },
+        {
+          "id": null,
+          "nazwa": "Oborniki NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Oborniki św. Józefa Oblubieńca NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Rożnowo św. Katarzyny"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Pniewski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Brody Poznańskie św. Andrzeja Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Bytyń Niepokalanego Poczęcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Duszniki Wlkp. św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Lubosz Nawiedzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Mościejewo Matki Boskiej Częstochowskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Nojewo św. Andrzeja Boboli"
+        },
+        {
+          "id": null,
+          "nazwa": "Otorowo Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Pniewy św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Pniewy św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Psarskie NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Wilczyna św. Jadwigi"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Jeżyce",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Poznań Chrystusa Dobrego Pasterza"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Maryi Królowej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Najświętszego Serca Jezusa i św. Floriana"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Objawienia Pańskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Podwyższenia Krzyża Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Cyryla i Metodego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jana Kantego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jerzego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Zwiastowania Pańskiego"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Łazarz",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Poznań Chrystusa Króla"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Chrystusa Sługi"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Boskiej Bolesnej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań NMP Matki Kościoła"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań NMP z La Salette"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Andrzeja Apostoła"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Anny"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jadwigi Śląskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Świętego Krzyża"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Świętej Rodziny"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Nowe Miasto",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Poznań Chrystusa Odkupiciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Ducha Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Bożej Różańcowej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Niepokalanego Poczęcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Apostołów Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jana Jerozolimskiego za Murami"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Rocha"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Wniebowzięcia NMP"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Piątkowo",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Bożej Częstochowskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Odkupiciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Miłosierdzia Bożego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Narodzenia Pańskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Opatrzności Bożej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Ścięcia św. Jana Chrzciciela (Chojnica-Morasko)"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jadwigi Królowej Wawelskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jana Pawła II"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Stanisława Bpa i M."
+        },
+        {
+          "id": null,
+          "nazwa": "Suchy Las Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Złotniki św. Joanny Beretty-Molla"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Rataje",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Poznań Chrystusa Najwyższego Kapłana"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Imienia Jezus"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Najświętszej Bogarodzicy Maryi"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Nawiedzenia Najświętszej Maryi Panny"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Nawrócenia św. Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Pierwszych Polskich Męczenników"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jana Ap. i Ewangelisty"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Łukasza"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Marka Ewangelisty"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Mateusza Ap. i Ewangelisty"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Stare Miasto",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Poznań Błogosławionej Poznańskiej Piątki"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Bożego Ciała"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Maryi Królowej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Bożej Nieustającej Pomocy, św. Marii Magdaleny i św. Stanisława Biskupa - Fara"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Najświętszego Zbawiciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Ofiarowania Pańskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Franciszka Serafickiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Świętej Trójcy"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Zmartwychwstania Pańskiego"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Starołęka",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Czapury św. Augustyna"
+        },
+        {
+          "id": null,
+          "nazwa": "Kamionki bł. Matki Teresy z Kalkuty"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Boskiej Królowej Korony Polskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Andrzeja Apostoła"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Antoniego Padewskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jakuba Większego Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Józefa"
+        },
+        {
+          "id": null,
+          "nazwa": "Rogalinek św. Michała Archanioła i Matki Bożej Wspomożenia Wiernych"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Poznań - Winogrady",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Bożej Pocieszenia"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Matki Boskiej Zwycięskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jana Bosko"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Jana Vianneya"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Karola Boromeusza"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Moniki"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Ojca Pio z Pietrelciny"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Stanisława Kostki"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Świętych Aniołów Stróżów"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań Wniebowstąpienia Pańskiego"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Przemęcki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Brenno św. Jadwigi"
+        },
+        {
+          "id": null,
+          "nazwa": "Bukówiec Górny św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Dłużyna św. Jakuba Większego Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Kaszczor św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Mochy św. Maksymiliana Kolbego"
+        },
+        {
+          "id": null,
+          "nazwa": "Przemęt św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Siekowo Niepokalanego Poczęcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Włoszakowice Świętej Trójcy"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Przeźmierowski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Baranowo św. Józefa Oblubieńca NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Ceradz Kościelny św. Stanisława Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Lusowo św. Jadwigi i św. Jakuba Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Lusówko św. Rity"
+        },
+        {
+          "id": null,
+          "nazwa": "Poznań św. Michała Archanioła i Wniebowzięcia NMP (Kiekrz)"
+        },
+        {
+          "id": null,
+          "nazwa": "Przeźmierowo św. Antoniego Padewskiego"
+        },
+        {
+          "id": null,
+          "nazwa": "Rokietnica Chrystusa Króla"
+        },
+        {
+          "id": null,
+          "nazwa": "Sobota Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Tarnowo Podgórne Wszystkich Świętych"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Rawicki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bojanowo Pozn. Najświętszego Serca Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Łaszczyn św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Miejska Górka św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Rawicz Chrystusa Króla i Zwiastowania NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Rawicz św. Andrzeja Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Rawicz św. Andrzeja Boboli"
+        },
+        {
+          "id": null,
+          "nazwa": "Słupia Kapitulna św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Sobiałkowo św. Jakuba Większego Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Zakrzewo św. Klemensa"
+        },
+        {
+          "id": null,
+          "nazwa": "Zielona Wieś św. Floriana"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Rydzyński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Dąbcze św. Katarzyny Dz. M."
+        },
+        {
+          "id": null,
+          "nazwa": "Drobnin Najświętszego Serca Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Drzeczkowo NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Goniembice św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Kaczkowo św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Kąkolewo Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Osieczna Świętej Trójcy"
+        },
+        {
+          "id": null,
+          "nazwa": "Pawłowice NMP Śnieżnej"
+        },
+        {
+          "id": null,
+          "nazwa": "Rydzyna św. Stanisława Bpa"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Stęszewski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Głuchowo św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Granowo św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Iłówiec św. Andrzeja Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Łódź św. Jadwigi"
+        },
+        {
+          "id": null,
+          "nazwa": "Modrze św. Idziego"
+        },
+        {
+          "id": null,
+          "nazwa": "Słupia Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Stęszew Świętej Trójcy"
+        },
+        {
+          "id": null,
+          "nazwa": "Strykowo św. Maksymiliana Marii Kolbego"
+        },
+        {
+          "id": null,
+          "nazwa": "Tomice św. Barbary"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Swarzędzki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Biskupice NMP Nieustającej Pomocy"
+        },
+        {
+          "id": null,
+          "nazwa": "Kobylnica Świętego Krzyża"
+        },
+        {
+          "id": null,
+          "nazwa": "Swarzędz Chrystusa Jedynego Zbawiciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Swarzędz Matki Bożej Miłosierdzia"
+        },
+        {
+          "id": null,
+          "nazwa": "Swarzędz Matki Bożej Wspomożycielki Wiernych"
+        },
+        {
+          "id": null,
+          "nazwa": "Swarzędz św. Józefa Rzemieślnika"
+        },
+        {
+          "id": null,
+          "nazwa": "Swarzędz św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Tulce Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Uzarzewo św. Michała Archanioła"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Szamotulski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Cerekwica Podwyższenia Krzyża Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Kaźmierz Narodzenia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Obrzycko św. Ap. Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Ostroróg Wniebowzięcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Popówko św. Józefa Rzemieślnika"
+        },
+        {
+          "id": null,
+          "nazwa": "Słopanowo św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Szamotuły Matki Bożej Pocieszenia i św. Stanisława Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Szamotuły Świętego Krzyża"
+        },
+        {
+          "id": null,
+          "nazwa": "Żydowo św. Mikołaja"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Śmigielski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bronikowo św. Franciszka z Asyżu"
+        },
+        {
+          "id": null,
+          "nazwa": "Bucz św. Barbary"
+        },
+        {
+          "id": null,
+          "nazwa": "Czacz św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Górka Duchowna Matki Boskiej Pocieszenia i św. Michała Arch."
+        },
+        {
+          "id": null,
+          "nazwa": "Radomicko św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Stare Bojanowo św. Bartłomieja"
+        },
+        {
+          "id": null,
+          "nazwa": "Stary Białcz Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Śmigiel NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Śmigiel św. Stanisława Kostki"
+        },
+        {
+          "id": null,
+          "nazwa": "Wilkowo Polskie św. Jadwigi"
+        },
+        {
+          "id": null,
+          "nazwa": "Wonieść św. Wawrzyńca"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Średzki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Bagrowo św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Krerowo św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Mączniki św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Mądre św. Jadwigi Śląskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Murzynowo Kościelne św. Jana Chrzciciela"
+        },
+        {
+          "id": null,
+          "nazwa": "Nietrzanowo Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Środa Wlkp. Najświętszego Serca Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Środa Wlkp. św. Józefa"
+        },
+        {
+          "id": null,
+          "nazwa": "Środa Wlkp. Wniebowzięcia NMP"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Śremski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Błażejewo św. Jakuba Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Błociszewo św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Brodnica św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Dolsk św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Jaszkowo św. Barbary"
+        },
+        {
+          "id": null,
+          "nazwa": "Mórka NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Śrem Bł. Michała Kozala Bpa i M."
+        },
+        {
+          "id": null,
+          "nazwa": "Śrem Ducha Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Śrem Najświętszego Serca Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Śrem NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Wieszczyczyn św. Rocha"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Święciechowski",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Długie Stare św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Gołanice św. Ap. Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Jezierzyce Kościelne św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Krzycko Małe NMP Śnieżnej"
+        },
+        {
+          "id": null,
+          "nazwa": "Lasocice Niepokalanego Poczęcia NMP"
+        },
+        {
+          "id": null,
+          "nazwa": "Mórkowo Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Niechłód Wszystkich Świętych"
+        },
+        {
+          "id": null,
+          "nazwa": "Święciechowa św. Jakuba Większego Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Wilkowice św. Marcina"
+        },
+        {
+          "id": null,
+          "nazwa": "Zbarzewo Narodzenia NMP"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Wieleński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Drawsko Najświętszego Serca Pana Jezusa"
+        },
+        {
+          "id": null,
+          "nazwa": "Gulcz św. Apostołów Piotra i Pawła"
+        },
+        {
+          "id": null,
+          "nazwa": "Pęckowo św. Ignacego Loyoli"
+        },
+        {
+          "id": null,
+          "nazwa": "Piłka NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Rosko św. Stanisława Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Wieleń n. Notecią Wniebowzięcia Matki Bożej i św. Michała"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Wolsztyński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Gościeszyn św. Stanisława Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Kębłowo św. Bartłomieja"
+        },
+        {
+          "id": null,
+          "nazwa": "Obra św. Jakuba Większego Ap."
+        },
+        {
+          "id": null,
+          "nazwa": "Prochy św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Rakoniewice św. Marcina i św. Stanisława Bpa"
+        },
+        {
+          "id": null,
+          "nazwa": "Rostarzewo św. Józefa"
+        },
+        {
+          "id": null,
+          "nazwa": "Solec Nowy Matki Boskiej Częstochowskiej"
+        },
+        {
+          "id": null,
+          "nazwa": "Wielichowo św. Marii Magdaleny"
+        },
+        {
+          "id": null,
+          "nazwa": "Wolsztyn NMP Niepokalanie Poczętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Wolsztyn św. Józefa Opiekuna Kościoła Świętego"
+        },
+        {
+          "id": null,
+          "nazwa": "Wroniawy Miłosierdzia Bożego"
+        },
+        {
+          "id": null,
+          "nazwa": "Zielęcin św. Klemensa P. M."
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Wroniecki",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Biezdrowo Świętego Krzyża i św. Mikołaja"
+        },
+        {
+          "id": null,
+          "nazwa": "Chojno n. Wartą Chrystusa Króla"
+        },
+        {
+          "id": null,
+          "nazwa": "Chrzypsko Wielkie św. Wojciecha"
+        },
+        {
+          "id": null,
+          "nazwa": "Lutom św. Andrzeja Ap. i NMP Wspomożenia Wiernych"
+        },
+        {
+          "id": null,
+          "nazwa": "Łężce św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Sieraków NMP Niepokalanie Poczętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Wronki św. Katarzyny"
+        },
+        {
+          "id": null,
+          "nazwa": "Wronki św. Urszuli Ledóchowskiej"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "nazwa": "Zbąszyński",
+      "parafie": [
+        {
+          "id": null,
+          "nazwa": "Chobienice św. Piotra w Okowach"
+        },
+        {
+          "id": null,
+          "nazwa": "Kopanica NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": "Łomnica św. Wawrzyńca"
+        },
+        {
+          "id": null,
+          "nazwa": "Siedlec św. Michała Archanioła"
+        },
+        {
+          "id": null,
+          "nazwa": "Tuchorza Świętej Trójcy"
+        },
+        {
+          "id": null,
+          "nazwa": "Zakrzewo Zbąszyńskie św. Kazimierza"
+        },
+        {
+          "id": null,
+          "nazwa": "Zbąszyń NMP Wniebowziętej"
+        },
+        {
+          "id": null,
+          "nazwa": ""
+        },
+        {
+          "id": null,
+          "nazwa": ""
+        },
+        {
+          "id": null,
+          "nazwa": ""
+        }
+      ]
+    }
+  ]
 }

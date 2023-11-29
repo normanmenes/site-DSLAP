@@ -1,4 +1,4 @@
-export interface parafia {
+export interface ParafiaList {
   id: number;
   nazwa: string;
 }

@@ -2,7 +2,7 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
-  entry: "/src/components/forms/select2.ts",
+  entry: "/src/index.js",
   output: {
     filename: "bundle.js",
     path: path.resolve(__dirname, "dist"),
@@ -25,7 +25,7 @@ module.exports = {
     extensions: [".tsx", ".ts", ".js"],
   },
   devServer: {
-    static: "./src",
+    static: "./",
     hot: true,
   },
 };

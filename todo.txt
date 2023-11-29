@@ -1,0 +1,1 @@
+1. Po wyborze parafii, zmiana pola dekanatu na readonly - np. https://jsfiddle.net/ujdbcy3d/36/

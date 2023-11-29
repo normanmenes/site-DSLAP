@@ -1,7 +1,7 @@
-import { parafia } from "./Parafia";
+import { ParafiaList } from "./Parafia";
 
-export interface dekanat {
+export interface DekanatList {
   id: number;
   nazwa: string;
-  parafie: parafia[];
+  parafie: ParafiaList[];
 }
