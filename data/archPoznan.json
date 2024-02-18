@@ -1,1938 +1,1926 @@
 {
-  "id": null,
+  "idSchematyzm": 24,
   "nazwa": "Archidiecezja Poznańska",
   "dekanaty": [
     {
-      "id": null,
+      "idSchematyzm": 625,
       "nazwa": "Borecki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16888,
           "nazwa": "Borek Wlkp. Pocieszenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16889,
           "nazwa": "Cerekwica Stara św. Jakuba Większego Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 16890,
           "nazwa": "Chwałkowo Kościelne św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16891,
           "nazwa": "Góra k. Jarocina Wniebowzięcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16892,
           "nazwa": "Jaraczewo św. Marii Magdaleny"
         },
         {
-          "id": null,
+          "idSchematyzm": 16893,
           "nazwa": "Jeżewo Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 16894,
           "nazwa": "Mchy św. Marcina Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16895,
           "nazwa": "Nosków Świętej Trójcy"
         },
         {
-          "id": null,
+          "idSchematyzm": 16896,
           "nazwa": "Panienka Najświętszego Imienia Jezus"
         },
         {
-          "id": null,
+          "idSchematyzm": 16897,
           "nazwa": "Potarzyca Podwyższenia Krzyża Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16898,
           "nazwa": "Rusko św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 16899,
           "nazwa": "Zimnowoda Świętej Trójcy"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 626,
       "nazwa": "Bukowski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16900,
           "nazwa": "Buk św. Stanisława Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16901,
           "nazwa": "Dakowy Mokre św. Katarzyny P.M."
         },
         {
-          "id": null,
+          "idSchematyzm": 16902,
           "nazwa": "Kuślin Zmartwychwstania Pańskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16903,
           "nazwa": "Michorzewo Najświętszej Maryi Panny i Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 16904,
           "nazwa": "Niepruszewo św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 16905,
           "nazwa": "Opalenica św. Józefa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16906,
           "nazwa": "Opalenica św. Mateusza"
         },
         {
-          "id": null,
+          "idSchematyzm": 16907,
           "nazwa": "Sędziny Niepokalanego Serca NMP i św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 16908,
           "nazwa": "Wojnowice św. Brata Alberta Chmielowskiego"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 627,
       "nazwa": "Czarnkowski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16909,
           "nazwa": "Boruszyn św. Andrzeja Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 16910,
           "nazwa": "Czarnków Jezusa Chrystusa Najwyższego Kapłana"
         },
         {
-          "id": null,
+          "idSchematyzm": 16911,
           "nazwa": "Czarnków św. Marii Magdaleny"
         },
         {
-          "id": null,
+          "idSchematyzm": 16912,
           "nazwa": "Gębice św. Andrzeja Boboli"
         },
         {
-          "id": null,
+          "idSchematyzm": 16913,
           "nazwa": "Kruszewo św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 16914,
           "nazwa": "Lubasz Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16915,
           "nazwa": "Połajewo św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16916,
           "nazwa": "Ryczywół św. Mikołaja"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 628,
       "nazwa": "Czerwonacki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16917,
           "nazwa": "Biedrusko św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 16918,
           "nazwa": "Bolechowo Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16919,
           "nazwa": "Czerwonak Niepokalanego Serca NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16920,
           "nazwa": "Kicin św. Józefa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16921,
           "nazwa": "Koziegłowy Matki Bożej Fatimskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 16922,
           "nazwa": "Koziegłowy św. Brata Alberta"
         },
         {
-          "id": null,
+          "idSchematyzm": 16923,
           "nazwa": "Owińska św. Jana Chrzciciel"
         },
         {
-          "id": null,
+          "idSchematyzm": 16924,
           "nazwa": "Wierzenica św. Mikołaja"
         }
       ]
     },
     {
-      "id": null,
-      "nazwa": "Gostyńska",
+      "idSchematyzm": 629,
+      "nazwa": "Gostyński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16925,
           "nazwa": "Domachowo św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16926,
           "nazwa": "Gostyń Błogosławionego Edmunda Bojanowskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16927,
           "nazwa": "Gostyń Ducha Świętego i Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16928,
           "nazwa": "Gostyń Najświętszej Maryi Panny Świętogórskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 16929,
           "nazwa": "Gostyń św. Małgorzaty"
         },
         {
-          "id": null,
+          "idSchematyzm": 16930,
           "nazwa": "Kunowo św. Andrzeja Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 16931,
           "nazwa": "Piaski Niepokalanego Serca Maryi"
         },
         {
-          "id": null,
+          "idSchematyzm": 16932,
           "nazwa": "Siemowo Podwyższenia Krzyża Świętego i św. Marii Magdaleny"
         },
         {
-          "id": null,
+          "idSchematyzm": 16933,
           "nazwa": "Stary Gostyń św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 16934,
           "nazwa": "Strzelce Wielkie św. Marcina Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16935,
           "nazwa": "Szelejewo Drugie Matki Bożej Pocieszenia"
         },
         {
-          "id": null,
+          "idSchematyzm": 16936,
           "nazwa": "Zalesie Wlkp. Najświętszego Serca Pana Jezusa"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 630,
       "nazwa": "Grodziski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16937,
           "nazwa": "Bukowiec św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 16938,
           "nazwa": "Grodzisk Wlkp. Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16939,
           "nazwa": "Grodzisk Wlkp. św. Faustyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 16940,
           "nazwa": "Grodzisk Wlkp. św. Jadwigi"
         },
         {
-          "id": null,
+          "idSchematyzm": 16941,
           "nazwa": "Jabłonna Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16942,
           "nazwa": "Kamieniec Poznański św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 16943,
           "nazwa": "Kąkolewo Niepokalanego Serca NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16944,
           "nazwa": "Parzęczewo św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16945,
           "nazwa": "Ptaszkowo św. Ap. Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16946,
           "nazwa": "Ruchocice św. Urszuli"
         },
         {
-          "id": null,
+          "idSchematyzm": 17040,
           "nazwa": "Sątopy św. Andrzeja Boboli"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 631,
       "nazwa": "Jutrosiński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16947,
           "nazwa": "Dubin św. Mikołaja Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16948,
           "nazwa": "Golejewko Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 16949,
           "nazwa": "Jutrosin św. Elżbiety"
         },
         {
-          "id": null,
+          "idSchematyzm": 16950,
           "nazwa": "Kołaczkowice Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16951,
           "nazwa": "Konary św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16952,
           "nazwa": "Pakosław św. Walentego i Macierzyństwa Bożego Maryi Dziewicy"
         },
         {
-          "id": null,
+          "idSchematyzm": 16953,
           "nazwa": "Skoraszewice św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 16954,
           "nazwa": "Smolice Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 16955,
           "nazwa": "Szkaradowo św. Marcina Bpa"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 632,
       "nazwa": "Komornicki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16956,
           "nazwa": "Dąbrówka św. Urszuli Ledóchowskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 16957,
           "nazwa": "Dopiewo Nawiedzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16958,
           "nazwa": "Komorniki św. Andrzeja Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 16959,
           "nazwa": "Komorniki św. Jana XXIII"
         },
         {
-          "id": null,
+          "idSchematyzm": 16960,
           "nazwa": "Konarzewo św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 16961,
           "nazwa": "Plewiska bł. Jerzego Popiełuszki"
         },
         {
-          "id": null,
+          "idSchematyzm": 16962,
           "nazwa": "Plewiska św. Faustyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17301,
           "nazwa": "Skórzewo bł. Stefana Wyszyńskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16963,
           "nazwa": "Skórzewo św. Marcina i św. Wincentego M."
         },
         {
-          "id": null,
+          "idSchematyzm": 16964,
           "nazwa": "Zakrzewo NMP Królowej Korony Polskiej"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 633,
       "nazwa": "Kostrzyński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16965,
           "nazwa": "Czerlejno NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 16966,
           "nazwa": "Giecz Wniebowzięcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16967,
           "nazwa": "Grodziszczko św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 16968,
           "nazwa": "Gułtowy św. Kazimierza"
         },
         {
-          "id": null,
+          "idSchematyzm": 16969,
           "nazwa": "Iwno NMP Szkaplerznej"
         },
         {
-          "id": null,
+          "idSchematyzm": 16970,
           "nazwa": "Kleszczewo Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 16971,
           "nazwa": "Kostrzyn Błogosławionej Jolanty"
         },
         {
-          "id": null,
+          "idSchematyzm": 16972,
           "nazwa": "Kostrzyn św. Ap. Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16973,
           "nazwa": "Siedlec św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 16974,
           "nazwa": "Siekierki Wielkie św. Jadwigi"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 634,
       "nazwa": "Kościański",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16975,
           "nazwa": "Bonikowo św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 16976,
           "nazwa": "Czempiń św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16977,
           "nazwa": "Gryżyna św. Barbary"
         },
         {
-          "id": null,
+          "idSchematyzm": 16978,
           "nazwa": "Konojad św. Andrzeja Apostoła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16979,
           "nazwa": "Kościan Ducha Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16980,
           "nazwa": "Kościan NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 16981,
           "nazwa": "Kościan św. Brata Alberta Chmielowskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16982,
           "nazwa": "Kościan św. Jana Pawła II"
         },
         {
-          "id": null,
+          "idSchematyzm": 16983,
           "nazwa": "Łęki Wielkie św. Katarzyny i Niepokalanego Serca Maryi"
         },
         {
-          "id": null,
+          "idSchematyzm": 16984,
           "nazwa": "Racot św. Stanisława Kostki i św. Jerzego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16985,
           "nazwa": "Stare Oborzyska NMP Pocieszenia i św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 16986,
           "nazwa": "Stary Gołębin Wniebowzięcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16987,
           "nazwa": "Wyskoć św. Andrzeja Apostoła"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 635,
       "nazwa": "Kórnicki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16988,
           "nazwa": "Bnin św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 16989,
           "nazwa": "Borówiec Matki Bożej Królowej Rodzin"
         },
         {
-          "id": null,
+          "idSchematyzm": 16990,
           "nazwa": "Koszuty św. Katarzyny i Najświętszego Serca Jezusowego"
         },
         {
-          "id": null,
+          "idSchematyzm": 16991,
           "nazwa": "Kórnik Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 16992,
           "nazwa": "Robakowo św. Józefa Rzemieślnika"
         },
         {
-          "id": null,
+          "idSchematyzm": 16993,
           "nazwa": "Rogalin św. Marcelina"
         },
         {
-          "id": null,
+          "idSchematyzm": 16994,
           "nazwa": "Śnieciska św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 16995,
           "nazwa": "Zaniemyśl Niepokalanego Serca NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 16996,
           "nazwa": "Zaniemyśl św. Wawrzyńca"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 636,
       "nazwa": "Krobski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 16997,
           "nazwa": "Chwałkowo Świętej Trójcy"
         },
         {
-          "id": null,
+          "idSchematyzm": 16998,
           "nazwa": "Krobia św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 16999,
           "nazwa": "Niepart św. Ap. Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 16877,
           "nazwa": "Oporowo NMP Niepokalanie Poczętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17001,
           "nazwa": "Pępowo św. Jadwigi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17002,
           "nazwa": "Poniec Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17003,
           "nazwa": "Pudliszki Matki Boskiej Częstochowskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17004,
           "nazwa": "Zalesie Wielkie Matki Boskiej Królowej Polski"
         },
         {
-          "id": null,
+          "idSchematyzm": 17005,
           "nazwa": "Żytowiecko św. Stanisława Bpa"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 637,
       "nazwa": "Krzywiński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17006,
           "nazwa": "Bielewo Matki Boskiej Pocieszenia"
         },
         {
-          "id": null,
+          "idSchematyzm": 17007,
           "nazwa": "Choryń św. Katarzyny Sieneńskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17008,
           "nazwa": "Czerwona Wieś św. Idziego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17009,
           "nazwa": "Dalewo św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 17010,
           "nazwa": "Jerka św. Kazimierza"
         },
         {
-          "id": null,
+          "idSchematyzm": 17011,
           "nazwa": "Krzywiń św. Mikołaja Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17012,
           "nazwa": "Lubiń Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17013,
           "nazwa": "Rąbiń św. Ap. Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17014,
           "nazwa": "Świerczyna św. Łukasza Ewangelisty"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 638,
       "nazwa": "Leszczyński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17015,
           "nazwa": "Leszno NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17016,
           "nazwa": "Leszno św. Antoniego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17017,
           "nazwa": "Leszno św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17018,
           "nazwa": "Leszno św. Józefa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17019,
           "nazwa": "Leszno św. Kazimierza"
         },
         {
-          "id": null,
+          "idSchematyzm": 17020,
           "nazwa": "Leszno św. Maksymiliana Marii Kolbego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17021,
           "nazwa": "Leszno św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17022,
           "nazwa": "Leszno Świętego Krzyża"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 639,
       "nazwa": "Luboński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17023,
           "nazwa": "Krosno Matki Boskiej Częstochowskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17024,
           "nazwa": "Luboń św. Barbary"
         },
         {
-          "id": null,
+          "idSchematyzm": 17025,
           "nazwa": "Luboń św. Jana Bosko"
         },
         {
-          "id": null,
+          "idSchematyzm": 17026,
           "nazwa": "Luboń św. Jana Pawła II"
         },
         {
-          "id": null,
+          "idSchematyzm": 17027,
           "nazwa": "Luboń św. Maksymiliana Marii Kolbego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17028,
           "nazwa": "Mosina św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17029,
           "nazwa": "Puszczykowo Matki Boskiej Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17030,
           "nazwa": "Puszczykowo św. Józefa Oblubieńca NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17031,
           "nazwa": "Wiry św. Floriana"
         },
         {
-          "id": null,
+          "idSchematyzm": 17032,
           "nazwa": "Żabno św. Jakuba Ap."
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 640,
       "nazwa": "Lwówecki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17033,
           "nazwa": "Bolewice Chrystusa Króla"
         },
         {
-          "id": null,
+          "idSchematyzm": 17034,
           "nazwa": "Boruja Kościelna św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 17035,
           "nazwa": "Jastrzębsko Stare Matki Boskiej Królowej Korony Polskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17036,
           "nazwa": "Lwówek NMP Wniebowziętej, św. Jana Chrzciciela i św. Jana Ewangelisty"
         },
         {
-          "id": null,
+          "idSchematyzm": 17037,
           "nazwa": "Miedzichowo św. Stanisława Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17038,
           "nazwa": "Nowy Tomyśl Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17039,
           "nazwa": "Nowy Tomyśl NMP Nieustającej Pomocy"
         },
         {
-          "id": null,
+          "idSchematyzm": 17041,
           "nazwa": "Wąsowo Miłosierdzia Bożego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17042,
           "nazwa": "Wytomyśl św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17043,
           "nazwa": "Zębowo Najświętszego Serca Jezusowego i Niepokalanego Serca Maryi"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 641,
       "nazwa": "Międzychodzki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17044,
           "nazwa": "Kamionna Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17045,
           "nazwa": "Kwilcz św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17046,
           "nazwa": "Lewice św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17047,
           "nazwa": "Łowyń Wniebowzięcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17048,
           "nazwa": "Międzychód Męczeństwa św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17049,
           "nazwa": "Międzychód Niepokalanego Serca Maryi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17050,
           "nazwa": "Silna św. Józefa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17051,
           "nazwa": "Stoki św. Wojciecha"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 642,
       "nazwa": "Nowomiejski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17052,
           "nazwa": "Chocicza Miłosierdzia Bożego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17053,
           "nazwa": "Cielcza św. Małgorzaty"
         },
         {
-          "id": null,
+          "idSchematyzm": 17054,
           "nazwa": "Dębno Wniebowzięcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17055,
           "nazwa": "Gogolewo Podwyższenia Krzyża Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17056,
           "nazwa": "Kolniczki Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17057,
           "nazwa": "Książ Wlkp. NMP Wniebowziętej i św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17058,
           "nazwa": "Książ Wlkp. św. Antoniego Padewskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17059,
           "nazwa": "Mieszków św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 17060,
           "nazwa": "Nowe Miasto n. Wartą Świętej Trójcy"
         },
         {
-          "id": null,
+          "idSchematyzm": 17061,
           "nazwa": "Radlin św. Walentego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17062,
           "nazwa": "Solec Wlkp. św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17063,
           "nazwa": "Sulęcinek Chrystusa Króla"
         },
         {
-          "id": null,
+          "idSchematyzm": 17064,
           "nazwa": "Włościejewki NMP Niepokalanie Poczętej"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 643,
       "nazwa": "Obornicki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17065,
           "nazwa": "Chludowo Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17066,
           "nazwa": "Kiszewo Najświętszego Serca Jezusa i św. Anny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17067,
           "nazwa": "Ludomy św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17068,
           "nazwa": "Łukowo św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17069,
           "nazwa": "Maniewo św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17070,
           "nazwa": "Objezierze św. Bartłomieja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17071,
           "nazwa": "Oborniki Miłosierdzia Bożego, (daw. Świętego Krzyża)"
         },
         {
-          "id": null,
+          "idSchematyzm": 17072,
           "nazwa": "Oborniki NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17073,
           "nazwa": "Oborniki św. Józefa Oblubieńca NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17074,
           "nazwa": "Rożnowo św. Katarzyny"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 644,
       "nazwa": "Pniewski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17075,
           "nazwa": "Brody Poznańskie św. Andrzeja Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17076,
           "nazwa": "Bytyń Niepokalanego Poczęcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17077,
           "nazwa": "Duszniki Wlkp. św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17078,
           "nazwa": "Lubosz Nawiedzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17079,
           "nazwa": "Mościejewo Matki Boskiej Częstochowskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17080,
           "nazwa": "Nojewo św. Andrzeja Boboli"
         },
         {
-          "id": null,
+          "idSchematyzm": 17081,
           "nazwa": "Otorowo Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17082,
           "nazwa": "Pniewy św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17083,
           "nazwa": "Pniewy św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 17084,
           "nazwa": "Psarskie NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17085,
           "nazwa": "Wilczyna św. Jadwigi"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 645,
       "nazwa": "Poznań - Jeżyce",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17086,
           "nazwa": "Poznań Chrystusa Dobrego Pasterza"
         },
         {
-          "id": null,
-          "nazwa": "Poznań Maryi Królowej"
+          "idSchematyzm": 17087,
+          "nazwa": "Poznań Imienia Maryi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17088,
           "nazwa": "Poznań Najświętszego Serca Jezusa i św. Floriana"
         },
         {
-          "id": null,
+          "idSchematyzm": 17089,
           "nazwa": "Poznań Objawienia Pańskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17090,
           "nazwa": "Poznań Podwyższenia Krzyża Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17091,
           "nazwa": "Poznań św. Cyryla i Metodego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17092,
           "nazwa": "Poznań św. Jana Kantego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17093,
           "nazwa": "Poznań św. Jerzego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17094,
           "nazwa": "Poznań św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17095,
           "nazwa": "Poznań św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 17096,
           "nazwa": "Poznań Zwiastowania Pańskiego"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 646,
       "nazwa": "Poznań - Łazarz",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17097,
           "nazwa": "Poznań Chrystusa Króla"
         },
         {
-          "id": null,
+          "idSchematyzm": 17098,
           "nazwa": "Poznań Chrystusa Sługi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17099,
           "nazwa": "Poznań Matki Boskiej Bolesnej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17100,
           "nazwa": "Poznań NMP Matki Kościoła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17101,
           "nazwa": "Poznań NMP z La Salette"
         },
         {
-          "id": null,
-          "nazwa": "Poznań św. Andrzeja Apostoła"
+          "idSchematyzm": 17102,
+          "nazwa": "Poznań św. Andrzeja Boboli"
         },
         {
-          "id": null,
+          "idSchematyzm": 17103,
           "nazwa": "Poznań św. Anny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17104,
           "nazwa": "Poznań św. Jadwigi Śląskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17105,
           "nazwa": "Poznań Świętego Krzyża"
         },
         {
-          "id": null,
+          "idSchematyzm": 17106,
           "nazwa": "Poznań Świętej Rodziny"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 647,
       "nazwa": "Poznań - Nowe Miasto",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17107,
           "nazwa": "Poznań Chrystusa Odkupiciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17108,
           "nazwa": "Poznań Ducha Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17109,
           "nazwa": "Poznań Matki Bożej Różańcowej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17110,
           "nazwa": "Poznań Niepokalanego Poczęcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17111,
           "nazwa": "Poznań św. Apostołów Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17112,
           "nazwa": "Poznań św. Jana Jerozolimskiego za Murami"
         },
         {
-          "id": null,
+          "idSchematyzm": 17113,
           "nazwa": "Poznań św. Rocha"
         },
         {
-          "id": null,
+          "idSchematyzm": 17114,
           "nazwa": "Poznań Wniebowzięcia NMP"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 648,
       "nazwa": "Poznań - Piątkowo",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17115,
           "nazwa": "Poznań Matki Bożej Częstochowskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17116,
           "nazwa": "Poznań Matki Odkupiciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17117,
           "nazwa": "Poznań Miłosierdzia Bożego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17118,
           "nazwa": "Poznań Narodzenia Pańskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17119,
           "nazwa": "Poznań Opatrzności Bożej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17120,
           "nazwa": "Poznań Ścięcia św. Jana Chrzciciela (Chojnica-Morasko)"
         },
         {
-          "id": null,
+          "idSchematyzm": 17121,
           "nazwa": "Poznań św. Jadwigi Królowej Wawelskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17122,
           "nazwa": "Poznań św. Jana Pawła II"
         },
         {
-          "id": null,
+          "idSchematyzm": 17123,
           "nazwa": "Poznań św. Stanisława Bpa i M."
         },
         {
-          "id": null,
+          "idSchematyzm": 17124,
           "nazwa": "Suchy Las Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17125,
           "nazwa": "Złotniki św. Joanny Beretty-Molla"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 649,
       "nazwa": "Poznań - Rataje",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17126,
           "nazwa": "Poznań Chrystusa Najwyższego Kapłana"
         },
         {
-          "id": null,
+          "idSchematyzm": 17302,
           "nazwa": "Poznań Imienia Jezus"
         },
         {
-          "id": null,
+          "idSchematyzm": 17127,
           "nazwa": "Poznań Najświętszej Bogarodzicy Maryi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17128,
           "nazwa": "Poznań Nawiedzenia Najświętszej Maryi Panny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17129,
           "nazwa": "Poznań Nawrócenia św. Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17130,
           "nazwa": "Poznań Pierwszych Polskich Męczenników"
         },
         {
-          "id": null,
+          "idSchematyzm": 17131,
           "nazwa": "Poznań św. Jana Ap. i Ewangelisty"
         },
         {
-          "id": null,
+          "idSchematyzm": 17132,
           "nazwa": "Poznań św. Łukasza"
         },
         {
-          "id": null,
+          "idSchematyzm": 17133,
           "nazwa": "Poznań św. Marka Ewangelisty"
         },
         {
-          "id": null,
+          "idSchematyzm": 17134,
           "nazwa": "Poznań św. Mateusza Ap. i Ewangelisty"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 650,
       "nazwa": "Poznań - Stare Miasto",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17135,
           "nazwa": "Poznań Błogosławionej Poznańskiej Piątki"
         },
         {
-          "id": null,
+          "idSchematyzm": 17136,
           "nazwa": "Poznań Bożego Ciała"
         },
         {
-          "id": null,
+          "idSchematyzm": 17137,
           "nazwa": "Poznań Maryi Królowej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17138,
           "nazwa": "Poznań Matki Bożej Nieustającej Pomocy, św. Marii Magdaleny i św. Stanisława Biskupa - Fara"
         },
         {
-          "id": null,
+          "idSchematyzm": 17139,
           "nazwa": "Poznań Najświętszego Zbawiciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17140,
           "nazwa": "Poznań Ofiarowania Pańskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17141,
           "nazwa": "Poznań św. Franciszka Serafickiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17142,
           "nazwa": "Poznań św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17143,
           "nazwa": "Poznań św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 17144,
           "nazwa": "Poznań Świętej Trójcy"
         },
         {
-          "id": null,
+          "idSchematyzm": 17145,
           "nazwa": "Poznań Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17146,
           "nazwa": "Poznań Zmartwychwstania Pańskiego"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 651,
       "nazwa": "Poznań - Starołęka",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17147,
           "nazwa": "Czapury św. Augustyna"
         },
         {
-          "id": null,
+          "idSchematyzm": 17148,
           "nazwa": "Kamionki bł. Matki Teresy z Kalkuty"
         },
         {
-          "id": null,
+          "idSchematyzm": 17149,
           "nazwa": "Poznań Matki Boskiej Królowej Korony Polskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17000,
           "nazwa": "Poznań św. Andrzeja Apostoła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17151,
           "nazwa": "Poznań św. Antoniego Padewskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17152,
           "nazwa": "Poznań św. Jakuba Większego Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17153,
           "nazwa": "Poznań św. Józefa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17154,
           "nazwa": "Rogalinek św. Michała Archanioła i Matki Bożej Wspomożenia Wiernych"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 652,
       "nazwa": "Poznań - Winogrady",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17155,
           "nazwa": "Poznań Matki Bożej Pocieszenia"
         },
         {
-          "id": null,
-          "nazwa": "Poznań Matki Boskiej Zwycięskiej"
+          "idSchematyzm": 17156,
+          "nazwa": "Poznań Matki Bożej Zwycięskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17157,
           "nazwa": "Poznań św. Jana Bosko"
         },
         {
-          "id": null,
+          "idSchematyzm": 17158,
           "nazwa": "Poznań św. Jana Vianneya"
         },
         {
-          "id": null,
+          "idSchematyzm": 17159,
           "nazwa": "Poznań św. Karola Boromeusza"
         },
         {
-          "id": null,
+          "idSchematyzm": 17160,
           "nazwa": "Poznań św. Moniki"
         },
         {
-          "id": null,
+          "idSchematyzm": 17161,
           "nazwa": "Poznań św. Ojca Pio z Pietrelciny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17162,
           "nazwa": "Poznań św. Stanisława Kostki"
         },
         {
-          "id": null,
+          "idSchematyzm": 17163,
           "nazwa": "Poznań Świętych Aniołów Stróżów"
         },
         {
-          "id": null,
+          "idSchematyzm": 17164,
           "nazwa": "Poznań Wniebowstąpienia Pańskiego"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 653,
       "nazwa": "Przemęcki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17165,
           "nazwa": "Brenno św. Jadwigi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17166,
           "nazwa": "Bukówiec Górny św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17167,
           "nazwa": "Dłużyna św. Jakuba Większego Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17168,
           "nazwa": "Kaszczor św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 17169,
           "nazwa": "Mochy św. Maksymiliana Kolbego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17170,
           "nazwa": "Przemęt św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17171,
           "nazwa": "Siekowo Niepokalanego Poczęcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17172,
           "nazwa": "Włoszakowice Świętej Trójcy"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 654,
       "nazwa": "Przeźmierowski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17173,
           "nazwa": "Baranowo św. Józefa Oblubieńca NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17174,
           "nazwa": "Ceradz Kościelny św. Stanisława Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17175,
           "nazwa": "Lusowo św. Jadwigi i św. Jakuba Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17176,
           "nazwa": "Lusówko św. Rity"
         },
         {
-          "id": null,
+          "idSchematyzm": 17177,
           "nazwa": "Poznań św. Michała Archanioła i Wniebowzięcia NMP (Kiekrz)"
         },
         {
-          "id": null,
+          "idSchematyzm": 17178,
           "nazwa": "Przeźmierowo św. Antoniego Padewskiego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17179,
           "nazwa": "Rokietnica Chrystusa Króla"
         },
         {
-          "id": null,
+          "idSchematyzm": 17180,
           "nazwa": "Sobota Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17181,
           "nazwa": "Tarnowo Podgórne Wszystkich Świętych"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 655,
       "nazwa": "Rawicki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17182,
           "nazwa": "Bojanowo Pozn. Najświętszego Serca Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17183,
           "nazwa": "Łaszczyn św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17184,
           "nazwa": "Miejska Górka św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17185,
           "nazwa": "Rawicz Chrystusa Króla i Zwiastowania NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17186,
           "nazwa": "Rawicz św. Andrzeja Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17187,
           "nazwa": "Rawicz św. Andrzeja Boboli"
         },
         {
-          "id": null,
+          "idSchematyzm": 17188,
           "nazwa": "Słupia Kapitulna św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17189,
           "nazwa": "Sobiałkowo św. Jakuba Większego Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17190,
           "nazwa": "Zakrzewo św. Klemensa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17191,
           "nazwa": "Zielona Wieś św. Floriana"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 656,
       "nazwa": "Rydzyński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17192,
           "nazwa": "Dąbcze św. Katarzyny Dz. M."
         },
         {
-          "id": null,
+          "idSchematyzm": 17193,
           "nazwa": "Drobnin Najświętszego Serca Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17194,
           "nazwa": "Drzeczkowo NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17195,
           "nazwa": "Goniembice św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17196,
           "nazwa": "Kaczkowo św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17197,
           "nazwa": "Kąkolewo Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17198,
           "nazwa": "Osieczna Świętej Trójcy"
         },
         {
-          "id": null,
+          "idSchematyzm": 17199,
           "nazwa": "Pawłowice NMP Śnieżnej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17200,
           "nazwa": "Rydzyna św. Stanisława Bpa"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 657,
       "nazwa": "Stęszewski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17201,
           "nazwa": "Głuchowo św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17202,
           "nazwa": "Granowo św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17203,
           "nazwa": "Iłówiec św. Andrzeja Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17204,
           "nazwa": "Łódź św. Jadwigi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17205,
           "nazwa": "Modrze św. Idziego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17206,
           "nazwa": "Słupia Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17207,
           "nazwa": "Stęszew Świętej Trójcy"
         },
         {
-          "id": null,
+          "idSchematyzm": 17208,
           "nazwa": "Strykowo św. Maksymiliana Marii Kolbego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17209,
           "nazwa": "Tomice św. Barbary"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 658,
       "nazwa": "Swarzędzki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17210,
           "nazwa": "Biskupice NMP Nieustającej Pomocy"
         },
         {
-          "id": null,
+          "idSchematyzm": 17211,
           "nazwa": "Kobylnica Świętego Krzyża"
         },
         {
-          "id": null,
+          "idSchematyzm": 17212,
           "nazwa": "Swarzędz Chrystusa Jedynego Zbawiciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17213,
           "nazwa": "Swarzędz Matki Bożej Miłosierdzia"
         },
         {
-          "id": null,
+          "idSchematyzm": 17214,
           "nazwa": "Swarzędz Matki Bożej Wspomożycielki Wiernych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17215,
           "nazwa": "Swarzędz św. Józefa Rzemieślnika"
         },
         {
-          "id": null,
+          "idSchematyzm": 17216,
           "nazwa": "Swarzędz św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17217,
           "nazwa": "Tulce Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17218,
           "nazwa": "Uzarzewo św. Michała Archanioła"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 659,
       "nazwa": "Szamotulski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17219,
           "nazwa": "Cerekwica Podwyższenia Krzyża Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17220,
           "nazwa": "Kaźmierz Narodzenia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17221,
           "nazwa": "Obrzycko św. Ap. Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17222,
           "nazwa": "Ostroróg Wniebowzięcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17223,
           "nazwa": "Popówko św. Józefa Rzemieślnika"
         },
         {
-          "id": null,
+          "idSchematyzm": 17224,
           "nazwa": "Słopanowo św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17225,
           "nazwa": "Szamotuły Matki Bożej Pocieszenia i św. Stanisława Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17226,
           "nazwa": "Szamotuły Świętego Krzyża"
         },
         {
-          "id": null,
+          "idSchematyzm": 17227,
           "nazwa": "Żydowo św. Mikołaja"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 660,
       "nazwa": "Śmigielski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17228,
           "nazwa": "Bronikowo św. Franciszka z Asyżu"
         },
         {
-          "id": null,
+          "idSchematyzm": 17229,
           "nazwa": "Bucz św. Barbary"
         },
         {
-          "id": null,
+          "idSchematyzm": 17230,
           "nazwa": "Czacz św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17231,
           "nazwa": "Górka Duchowna Matki Boskiej Pocieszenia i św. Michała Arch."
         },
         {
-          "id": null,
+          "idSchematyzm": 17232,
           "nazwa": "Radomicko św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17233,
           "nazwa": "Stare Bojanowo św. Bartłomieja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17234,
           "nazwa": "Stary Białcz Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17235,
           "nazwa": "Śmigiel NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17236,
           "nazwa": "Śmigiel św. Stanisława Kostki"
         },
         {
-          "id": null,
+          "idSchematyzm": 17237,
           "nazwa": "Wilkowo Polskie św. Jadwigi"
         },
         {
-          "id": null,
+          "idSchematyzm": 17238,
           "nazwa": "Wonieść św. Wawrzyńca"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 661,
       "nazwa": "Średzki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17239,
           "nazwa": "Bagrowo św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17240,
           "nazwa": "Krerowo św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17241,
           "nazwa": "Mączniki św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 17242,
           "nazwa": "Mądre św. Jadwigi Śląskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17243,
           "nazwa": "Murzynowo Kościelne św. Jana Chrzciciela"
         },
         {
-          "id": null,
+          "idSchematyzm": 17244,
           "nazwa": "Nietrzanowo Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17245,
           "nazwa": "Środa Wlkp. Najświętszego Serca Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17246,
           "nazwa": "Środa Wlkp. św. Józefa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17247,
           "nazwa": "Środa Wlkp. Wniebowzięcia NMP"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 662,
       "nazwa": "Śremski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17248,
           "nazwa": "Błażejewo św. Jakuba Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17249,
           "nazwa": "Błociszewo św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17250,
           "nazwa": "Brodnica św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17251,
           "nazwa": "Dolsk św. Michała Archanioła"
         },
         {
-          "id": null,
-          "nazwa": "Jaszkowo św. Barbary"
+          "idSchematyzm": 17252,
+          "nazwa": "Manieczki św. Barbary"
         },
         {
-          "id": null,
+          "idSchematyzm": 17253,
           "nazwa": "Mórka NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17254,
           "nazwa": "Śrem Bł. Michała Kozala Bpa i M."
         },
         {
-          "id": null,
+          "idSchematyzm": 17255,
           "nazwa": "Śrem Ducha Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17256,
           "nazwa": "Śrem Najświętszego Serca Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17257,
           "nazwa": "Śrem NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17258,
           "nazwa": "Wieszczyczyn św. Rocha"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 663,
       "nazwa": "Święciechowski",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17259,
           "nazwa": "Długie Stare św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17260,
           "nazwa": "Gołanice św. Ap. Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17261,
           "nazwa": "Jezierzyce Kościelne św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17262,
           "nazwa": "Krzycko Małe NMP Śnieżnej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17263,
           "nazwa": "Lasocice Niepokalanego Poczęcia NMP"
         },
         {
-          "id": null,
+          "idSchematyzm": 17264,
           "nazwa": "Mórkowo Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17265,
           "nazwa": "Niechłód Wszystkich Świętych"
         },
         {
-          "id": null,
+          "idSchematyzm": 17266,
           "nazwa": "Święciechowa św. Jakuba Większego Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17267,
           "nazwa": "Wilkowice św. Marcina"
         },
         {
-          "id": null,
+          "idSchematyzm": 17268,
           "nazwa": "Zbarzewo Narodzenia NMP"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 664,
       "nazwa": "Wieleński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17269,
           "nazwa": "Drawsko Najświętszego Serca Pana Jezusa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17270,
           "nazwa": "Gulcz św. Apostołów Piotra i Pawła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17271,
           "nazwa": "Pęckowo św. Ignacego Loyoli"
         },
         {
-          "id": null,
+          "idSchematyzm": 17272,
           "nazwa": "Piłka NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17273,
           "nazwa": "Rosko św. Stanisława Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17274,
           "nazwa": "Wieleń n. Notecią Wniebowzięcia Matki Bożej i św. Michała"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 665,
       "nazwa": "Wolsztyński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17275,
           "nazwa": "Gościeszyn św. Stanisława Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17276,
           "nazwa": "Kębłowo św. Bartłomieja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17277,
           "nazwa": "Obra św. Jakuba Większego Ap."
         },
         {
-          "id": null,
+          "idSchematyzm": 17278,
           "nazwa": "Prochy św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17279,
           "nazwa": "Rakoniewice św. Marcina i św. Stanisława Bpa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17280,
           "nazwa": "Rostarzewo św. Józefa"
         },
         {
-          "id": null,
+          "idSchematyzm": 17281,
           "nazwa": "Solec Nowy Matki Boskiej Częstochowskiej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17282,
           "nazwa": "Wielichowo św. Marii Magdaleny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17283,
           "nazwa": "Wolsztyn NMP Niepokalanie Poczętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17284,
           "nazwa": "Wolsztyn św. Józefa Opiekuna Kościoła Świętego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17285,
           "nazwa": "Wroniawy Miłosierdzia Bożego"
         },
         {
-          "id": null,
+          "idSchematyzm": 17286,
           "nazwa": "Zielęcin św. Klemensa P. M."
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 666,
       "nazwa": "Wroniecki",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17287,
           "nazwa": "Biezdrowo Świętego Krzyża i św. Mikołaja"
         },
         {
-          "id": null,
+          "idSchematyzm": 17288,
           "nazwa": "Chojno n. Wartą Chrystusa Króla"
         },
         {
-          "id": null,
+          "idSchematyzm": 17289,
           "nazwa": "Chrzypsko Wielkie św. Wojciecha"
         },
         {
-          "id": null,
+          "idSchematyzm": 17290,
           "nazwa": "Lutom św. Andrzeja Ap. i NMP Wspomożenia Wiernych"
         },
         {
-          "id": null,
+          "idSchematyzm": null,
           "nazwa": "Łężce św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17291,
           "nazwa": "Sieraków NMP Niepokalanie Poczętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17292,
           "nazwa": "Wronki św. Katarzyny"
         },
         {
-          "id": null,
+          "idSchematyzm": 17293,
           "nazwa": "Wronki św. Urszuli Ledóchowskiej"
         }
       ]
     },
     {
-      "id": null,
+      "idSchematyzm": 667,
       "nazwa": "Zbąszyński",
       "parafie": [
         {
-          "id": null,
+          "idSchematyzm": 17294,
           "nazwa": "Chobienice św. Piotra w Okowach"
         },
         {
-          "id": null,
+          "idSchematyzm": 17295,
           "nazwa": "Kopanica NMP Wniebowziętej"
         },
         {
-          "id": null,
+          "idSchematyzm": 17296,
           "nazwa": "Łomnica św. Wawrzyńca"
         },
         {
-          "id": null,
+          "idSchematyzm": 17297,
           "nazwa": "Siedlec św. Michała Archanioła"
         },
         {
-          "id": null,
+          "idSchematyzm": 17298,
           "nazwa": "Tuchorza Świętej Trójcy"
         },
         {
-          "id": null,
+          "idSchematyzm": 17299,
           "nazwa": "Zakrzewo Zbąszyńskie św. Kazimierza"
         },
         {
-          "id": null,
+          "idSchematyzm": 17300,
           "nazwa": "Zbąszyń NMP Wniebowziętej"
-        },
-        {
-          "id": null,
-          "nazwa": ""
-        },
-        {
-          "id": null,
-          "nazwa": ""
-        },
-        {
-          "id": null,
-          "nazwa": ""
         }
       ]
     }
